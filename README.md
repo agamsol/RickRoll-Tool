@@ -1,6 +1,8 @@
 ## 🎢 RickRoll Tool Version 1.0
 > RickRoll your friends using a command in order to prevent them from stopping the sound from playing...
 
+https://user-images.githubusercontent.com/43265196/162421361-8dd9c471-5368-4a33-a9ca-3b7b22fe8038.mp4
+
 ### ▶ How can I rickroll?
 - Tell them to open CMD
 - Tell them to paste the following command into the window and press enter
